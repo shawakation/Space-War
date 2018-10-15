@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B81B995E-15B9-19AA-02A1-92C7CF828AAF}") = "Space War", "Assembly-CSharp.csproj", "{661028AC-5E39-ABF7-4F4B-61B761AF70C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661028AC-5E39-ABF7-4F4B-61B761AF70C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661028AC-5E39-ABF7-4F4B-61B761AF70C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661028AC-5E39-ABF7-4F4B-61B761AF70C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661028AC-5E39-ABF7-4F4B-61B761AF70C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
